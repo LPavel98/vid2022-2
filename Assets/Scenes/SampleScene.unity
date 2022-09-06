@@ -227,7 +227,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 82231961}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.46, y: -2.7025, z: 0}
+  m_LocalPosition: {x: 5.4, y: -1.48, z: 0}
   m_LocalScale: {x: 6.0507884, y: 0.57736593, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -597,4 +597,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   JumpForce: 90
+  bullet: {fileID: 2186653060454289162, guid: 9651d9126d3c85d49936a1033cb4d41f, type: 3}
   velocity: 10
