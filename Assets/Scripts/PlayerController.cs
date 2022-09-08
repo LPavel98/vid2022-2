@@ -13,10 +13,13 @@ public class PlayerController : MonoBehaviour
     const int ANIMATION_QUIETO = 0;
     const int ANIMATION_CORRER = 1;
 
+    private GameManagerController gameManager;
+
     bool puedeSaltar = true;
     // Start is called before the first frame update
     void Start()
     {
+        gameManager = FindObjectOfType<GameManagerController>();
         Debug.Log("Iniciamos script de player");
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
@@ -66,6 +69,12 @@ public class PlayerController : MonoBehaviour
             rb.AddForce(new Vector2(0,JumpForce), ForceMode2D.Impulse);
             puedeSaltar = false;
         }
+        
+        else if (gameManager.livesText.text == "GAME OVER")
+                {
+                    ChangeAnimation(ANIMATION_CORRER);
+                    Debug.Log("Estas muerto");
+                }
        
         else
         {
@@ -79,9 +88,15 @@ public class PlayerController : MonoBehaviour
     void OnCollisionEnter2D(Collision2D other) {
         Debug.Log("Puede saltar");
         puedeSaltar = true;
-            if (other.gameObject.tag == "Enemy")
+            // if (other.gameObject.tag == "Enemy")
+            // {
+            //     Debug.Log("Estas muerto");
+            // }
+            if (other.gameObject.name == "Bullet")
             {
-                Debug.Log("Estas muerto");
+                gameManager.PerderVida();
+               //Destroy(other.gameObject);
+                //gameManager.GanarPuntos(10);
             }   
     }
    
