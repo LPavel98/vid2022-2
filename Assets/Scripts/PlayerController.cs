@@ -4,6 +4,10 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    public AudioClip jumpClip;
+    public AudioClip bulletClip;
+    public AudioClip powerupClip;
+
     public float JumpForce = 5;
     public GameObject bullet;
     public float velocity = 10;
@@ -14,16 +18,22 @@ public class PlayerController : MonoBehaviour
     const int ANIMATION_CORRER = 1;
 
     private GameManagerController gameManager;
-
+    AudioSource audioSource;
     bool puedeSaltar = true;
+
+
+    
     // Start is called before the first frame update
     void Start()
     {
+        audioSource = GetComponent<AudioSource>();
         gameManager = FindObjectOfType<GameManagerController>();
         Debug.Log("Iniciamos script de player");
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
+
+
     }
 
     // Update is called once per frame
@@ -45,6 +55,7 @@ public class PlayerController : MonoBehaviour
             var gb = Instantiate(bullet, bulletPosition, Quaternion.identity) as GameObject;
             var controller = gb.GetComponent<BulletController>();
             controller.SetLeftDirection();
+            audioSource.PlayOneShot(bulletClip);
         }
         else if (Input.GetKeyUp(KeyCode.G) && sr.flipX == false)
         {
@@ -52,6 +63,7 @@ public class PlayerController : MonoBehaviour
             var gb = Instantiate(bullet, bulletPosition, Quaternion.identity) as GameObject;
             var controller = gb.GetComponent<BulletController>();
             controller.SetRightDirection();
+            audioSource.PlayOneShot(bulletClip);
         }
         else if (Input.GetKey(KeyCode.RightArrow)){
             rb.velocity = new Vector2(velocity, rb.velocity.y);  
@@ -63,11 +75,13 @@ public class PlayerController : MonoBehaviour
             sr.flipX = true;
             ChangeAnimation(ANIMATION_CORRER);
         }
+        
 
         else if (Input.GetKeyUp(KeyCode.Space) && puedeSaltar)
         {
             rb.AddForce(new Vector2(0,JumpForce), ForceMode2D.Impulse);
             puedeSaltar = false;
+            audioSource.PlayOneShot(jumpClip);
         }
         
         else if (gameManager.livesText.text == "GAME OVER")
@@ -76,11 +90,7 @@ public class PlayerController : MonoBehaviour
                     Debug.Log("Estas muerto");
                 }
        
-        else
-        {
-            rb.velocity = new Vector2(0, rb.velocity.y);
-            ChangeAnimation(ANIMATION_QUIETO);
-        }
+       
             
 
     }  
@@ -88,16 +98,37 @@ public class PlayerController : MonoBehaviour
     void OnCollisionEnter2D(Collision2D other) {
         Debug.Log("Puede saltar");
         puedeSaltar = true;
-            // if (other.gameObject.tag == "Enemy")
-            // {
-            //     Debug.Log("Estas muerto");
-            // }
-            if (other.gameObject.name == "Bullet")
+            if (other.gameObject.name == "Hongo")
+            {
+                Debug.Log("Estas muerto");
+                gameManager.PerderVida();
+                transform.localScale = new Vector3(0.7F, 0.7F, 1);
+                audioSource.PlayOneShot(powerupClip);
+
+            }
+            if (other.gameObject.tag == "Enemy")
             {
                 gameManager.PerderVida();
+                transform.localScale = new Vector3(0.3F, 0.3F, 1);
                //Destroy(other.gameObject);
                 //gameManager.GanarPuntos(10);
-            }   
+            }  
+            if (other.gameObject.name == "Escalera")
+            {
+                gameManager.PerderVida();
+               
+// rb.velocity = new Vector2(1, rb.velocity.x);
+                
+               //Destroy(other.gameObject);
+                //gameManager.GanarPuntos(10);
+                
+            rb.velocity = new Vector2 (1, 3);
+            ChangeAnimation(ANIMATION_QUIETO);
+        
+                
+                
+            }  
+            
     }
    
 
