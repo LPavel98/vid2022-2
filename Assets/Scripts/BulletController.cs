@@ -40,6 +40,7 @@ public class BulletController : MonoBehaviour
             {
                 Destroy(other.gameObject);
                 gameManager.GanarPuntos(10);
+                gameManager.SaveGame();
             }
               
     }

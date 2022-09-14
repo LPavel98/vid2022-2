@@ -32,8 +32,7 @@ public class PlayerController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
-
-
+        gameManager.LoadGame();
     }
 
     // Update is called once per frame
@@ -75,7 +74,7 @@ public class PlayerController : MonoBehaviour
             sr.flipX = true;
             ChangeAnimation(ANIMATION_CORRER);
         }
-        
+                
 
         else if (Input.GetKeyUp(KeyCode.Space) && puedeSaltar)
         {
