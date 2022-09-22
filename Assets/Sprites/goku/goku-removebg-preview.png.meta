@@ -1,0 +1,4754 @@
+fileFormatVersion: 2
+guid: 912a0063c50effa48aede4fc0b8f883c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goku-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 429
+        width: 120
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2378712f5886148bb1ccfc37ed09c6
+      internalID: -1033586264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 469
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d57135a84ff949428e7651b660325a1
+      internalID: 444378761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 465
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a4a0f355a778b40b7ea63438e85c33
+      internalID: 507601936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 402
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47acab9bb18e2f4ca913a7ca00ec9f0
+      internalID: 553491182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 402
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0000d3d053d00bf4682b0b2f238bd161
+      internalID: 786458873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 402
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8ece98cd72a3d4caa1985885a1d3c6
+      internalID: -1500706015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 402
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab74575b7b795a43ad474a12be39d3e
+      internalID: 2140930640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 402
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c36f7732632544bbe6cf737c2dcfe8
+      internalID: -1884557918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 416
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae22d8c4271227a4c81dddd789f51f5a
+      internalID: 524144052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 416
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1db09eee0e53043a67944cc883d26c
+      internalID: -115022031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 416
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bad7f82edd98f49bd8786b87c22b8f
+      internalID: -1227039167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 416
+        width: 117
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5633c49e4cf2049a8d6e6903f3c2a1
+      internalID: -1575686110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 371
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c953dcc11bf7ff43a8fef8fd81eeec6
+      internalID: -1060763302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 371
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566df8d7c6a392648a566db1c3902db3
+      internalID: -2062838287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 373
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb00e5c13125dd943b7db5dd934424b3
+      internalID: -616958429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 371
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a620c6ef74329646b94f9d286e32cad
+      internalID: 343780734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 372
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039cbf91b6f00a7499fe14d376db736c
+      internalID: 614864873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 373
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d95a4d4ae7e86046a1c5a20052e1737
+      internalID: 1816556057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 372
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee371c77725f1e47ae0b4ec410f5da8
+      internalID: 1562990626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 373
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d24af85e8e710746b6b8f28392a7f97
+      internalID: -1032418501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 372
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96be04d012857fc48b4594eeba6db9f1
+      internalID: -596360569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 372
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf5a543fe54a7248867784954ff7c69
+      internalID: 1677430220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 374
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74a69f74ad28cc4bbbfaafb878a9670
+      internalID: -950526187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 373
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c1b21d7775c7844bca67d3e538beb2
+      internalID: 224389174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 373
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf99eccc025cf74cbc2c683d5e62802
+      internalID: 902097979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 372
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463deb0333d22de4192bde1f8881ba7d
+      internalID: -607224982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 372
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844e9ffe55930054885e6abe0636d542
+      internalID: -1801800579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 372
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021c12664ae22f749bedc13c9148b566
+      internalID: -1073051984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 372
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c811f98a5cb64442b6259001ab0378a
+      internalID: 584963176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 345
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b416d0e8efaa341907e3b7120b41aa
+      internalID: -1652073030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 346
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13def3355aeadcb49a2123ac328dc755
+      internalID: -950856642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 345
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb6da7c9272387479fba31c677c102d
+      internalID: -666027753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 346
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7194c6c0b8bfe1943aa4d1feaa41dfdc
+      internalID: -1988683251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 346
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a02eeb8cfcd9b47ba3866cf12c15c1
+      internalID: -1682834468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 345
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d0b5dd49ba0d746ad6645fd2e47cd0
+      internalID: -983367387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 345
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495b956e77dd9fc4ab561e2e7e5b0f0f
+      internalID: 1600673518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 345
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfdf28c4a662194d9324a41e3b2a9f7
+      internalID: -1855411867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 346
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b729faf01d1674f48aff5678accf3dcf
+      internalID: 776142060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 346
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea34d49f667aef9428ce2ee4ee92b767
+      internalID: -496339420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 346
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695222b4fc125c54e8e14959b5c2d28f
+      internalID: -336031700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 346
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6de7f052dfcb34a8c2ba4c09116c5d
+      internalID: 1263319613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 347
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7289fb776d0ed64d9b916aaf16503f1
+      internalID: 302767509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 346
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3775fce4e144249a331a9d881cf746
+      internalID: 108155034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 344
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d5e2a7ed40fec4b997a4e44a3edd96
+      internalID: 558035335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 317
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0622b43fd58bbb94ab855fe7d1be9b72
+      internalID: -3944230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 319
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b634ab2d4906fa64abda5274f2dd4daa
+      internalID: 1040281582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 317
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed09ae86ae0026f44b8272d2599364c2
+      internalID: -528726019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 317
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ba8deddfa9a0b4d832c4fc18cc9c69
+      internalID: 2096459665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 318
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c557c2b920a2e4289385be3b25a659
+      internalID: -1272485626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 319
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16b5c6884f584340882b8b1db343fd1
+      internalID: 1502847171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 318
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b51a1b79fa99284faa36639fe980253
+      internalID: -1637998796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 285
+        width: 17
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fb2d06fba8b664bac6c557b052a82e
+      internalID: 1810526066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 319
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249e98fe765b9d146a1a2b5a2680760b
+      internalID: 459741905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 319
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fb8653eeb7d4b47acb512dc117cf88
+      internalID: 857501073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 319
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14181885224fdb41b0b84bff361a3ab
+      internalID: -1695411588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 317
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad11154bc13fe0489a276cce2730f8a
+      internalID: 2032938717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 317
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785aa39f89fd04146bb7c34d1a333ebc
+      internalID: 582751164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 317
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8e33c88c13e9346806f68454f8fb7b
+      internalID: -2024508668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 317
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd635bc3d1c6c4a4aa3b9c21e5a8dc37
+      internalID: -1075257160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 289
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7c37c907d43d14ebba44fa9f597525
+      internalID: -957214246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 288
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2a87bc62e12be4eb2c151153d1603a
+      internalID: -66188004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f344f6b4c2956b49bc01aedd95e20a0
+      internalID: -1525319644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 292
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e25a30c6def93458d265b01ec2482c
+      internalID: -1361297746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 287
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0c1fe8b2c768a489c3341fbb1483e2
+      internalID: 1713844060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 287
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b0d7977cddace41a3ef6cab728d810
+      internalID: 543624291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 289
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f307cbe04df80b24f9e57cb109c2d745
+      internalID: 143153732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 289
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2296d741183f6134ab603ab35e76e634
+      internalID: 1736255332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 285
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09099a7a2ed55f4b82371964a459f78
+      internalID: -1716998625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 260
+        width: 19
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76526f091f9d654c8dc2c02269f0002
+      internalID: 801982097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 291
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4b166cf047aaa47914286dd8faa3cf
+      internalID: 1054856168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 291
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe47d290544d2154592ab6527f2fc72c
+      internalID: 925169032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 292
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac11b65c0e5777d47be07a00b4c91c64
+      internalID: 307096290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 292
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb37be7602efa040b110e0bdba4f6a9
+      internalID: 2046157501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 292
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9db6b499d86364b8ff520c48eda86e
+      internalID: 1536240683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 292
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fb1af2a52b3964db245b240062b684
+      internalID: 989468666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 288
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8189ca65ec5abca45b35b0cc721d0be2
+      internalID: -1947166232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 292
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aecaa0c4ac7a7d45bb0af492a255f8e
+      internalID: 687581578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 292
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8568f42e0e2700458fde9b1bd878ab8
+      internalID: 1511034675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 263
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8730fbfbe07f3941966737d7c610b5e
+      internalID: 1014935503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 263
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d306b56c89a41448c86b60fd57c44c
+      internalID: -234722648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 262
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf59443268593d44cb0c105a03db13ec
+      internalID: -393415115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 261
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a187cfda082dc94b84ae17627201219
+      internalID: 1135025711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 259
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee22e5c0da35bf34ba553511bd37b5e5
+      internalID: 2087947679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 262
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84af2d4b8c820142bd87fc781eed14c
+      internalID: 1265619293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 260
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266087948c8464c4baaeff8662198c0d
+      internalID: 1246817803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 260
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b42f15a9795e8244a306cb14bb9f1cd
+      internalID: 359673699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 260
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b347d401f2de1e94db968f092e213938
+      internalID: 802069931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 260
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d7955e94a11c24796a49ebeef14f62
+      internalID: -1696873445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 233
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec60d57732925bc4db8ec591029c1956
+      internalID: -2020371620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 260
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da7e18154f4bdf4cb898b45ce3ac042
+      internalID: -265002592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 263
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270da6639ee0950458cf3867b93844fe
+      internalID: 1662336833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 263
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fefd5b110f9744789701a7343a4c5e
+      internalID: 25293680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 263
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b5edfce3d30c34da9aea6c61f4757a
+      internalID: 589005411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 264
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170b60925261d624a9cf9349a86e7649
+      internalID: 54382512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 264
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e6eea9ab3adc445a3c7480416154ea
+      internalID: -1791644297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 264
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414e6249b40895140b11e1e7642c1c0f
+      internalID: -1596191407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_96
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 232
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eb7166c619adb458e44b79d7f36375
+      internalID: 2018326943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 232
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678558db1500c1a499b26d9b9fdf984a
+      internalID: 337871947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_98
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 231
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f06ec35dcfb5e4d93b629c6d36aff3
+      internalID: 961806304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_99
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 232
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2e955cbb5f72b4cbb359c6b938b1f9
+      internalID: 816645563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_100
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 232
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e897faeb36c1f3b4ba325a7b8256f59f
+      internalID: -1740114662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 232
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c49ec527841704bb471a5ccc1a2ced
+      internalID: 742205276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 232
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561bcc299d10efb4f9ecb70b9514abb0
+      internalID: -826762238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 241
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b1ab26c8806844a8696a0249339e3d
+      internalID: -2090393454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 232
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0538dd197698aba4a8ca46332fec26ef
+      internalID: 138359167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 232
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3474a851a32e7b418f1e60470203a62
+      internalID: -1200422424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 232
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a84e90e542c2e459290d89b8766c40
+      internalID: -581562750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_107
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 234
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9d869314eb0e943bb6ad7bb36d7e20
+      internalID: -1475516186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_108
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 234
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b6236165046584eae2ee6e5ca1d383
+      internalID: -494271632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_109
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 234
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c804da98e3a654440b45e35f8a671ecb
+      internalID: 1781306410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_110
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 234
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcac262e777a6af47a8dd10cb6064a8d
+      internalID: 1489501976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_111
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 233
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ee841ef2256864e8ff82fff07dec33
+      internalID: 1041076332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_112
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dfaa24b341ee04fbe5d59db3e13ce3
+      internalID: -334125788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_113
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 206
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9b00b5b7eada64783e72a2f6e0b607
+      internalID: 474065666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_114
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 206
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafd7f053781f5e4780a10625e50195a
+      internalID: -1441141490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 206
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b74a7a5435d5e4ead19605507a5ddc
+      internalID: -1176041994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_116
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 205
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd042e1c80ce5940aabc1bee8fe21c0
+      internalID: 1175708687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_117
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 204
+        width: 94
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea5216ef16170a42aa0514cba958f5b
+      internalID: 1037712532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_118
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 204
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053aad5ac5fd79e49b85bbd6fc946ec4
+      internalID: 1028671598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_119
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 204
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed93ad2dd17d79349aeb6ab80b496925
+      internalID: 466232206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_120
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 205
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bfa38173774c746a97fd6260eefcc2
+      internalID: -1670535754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_121
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 202
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dcffbf865c1c443ab1feb075e7e0c2
+      internalID: 1505363730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_122
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 203
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249c6230a05d0254f835dd52c5337a6d
+      internalID: 1621987535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_123
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 204
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5111fbc15da96664d81f2348e3d2538a
+      internalID: 926252571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_124
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 204
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9b32e0fd462e14c8b69400982b5b7e
+      internalID: -274193198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_125
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 204
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a53730e1feb8d149aa9a4d6ef602e73
+      internalID: -1995736741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_126
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 176
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c7b57f4eb90d340ab767f32f54c827
+      internalID: 1925908207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_127
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 175
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93fcfcb5fddc854e8b59b05c143957a
+      internalID: -186160608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_128
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 176
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94928494862c8ca4d8554a67553a1406
+      internalID: -1150773391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_129
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 176
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf3a197ee4ba104592fa7c602f14cee
+      internalID: 1494843656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_130
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 176
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79ec03d88f8c0244a51bd22488c3cfe
+      internalID: 1696955943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_131
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 178
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b91dbc84ba7df4e8b948174659393a
+      internalID: 1503496905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_132
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 176
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46767f2d541f0d54da83e5903099af6f
+      internalID: -1967844493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_133
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 178
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bad8ef970f540646a1e52be15485aed
+      internalID: 2136854930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_134
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 177
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2603cdee50cc03b45b1c342b45033ecd
+      internalID: -468278694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_135
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 176
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5b5de67a576754e9678ffba2dae712
+      internalID: -1628819692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_136
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 176
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de90f3f907a5d047a36e2cd035876f7
+      internalID: -1862356794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_137
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 175
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9170586a049a2cb4b9ee5fa3f7957ad4
+      internalID: 657716077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_138
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 178
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f279b9e491c0eec458d723ce01fdc4d3
+      internalID: -2086356133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_139
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 179
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc45266f8ba6bc42bea50d2abe7fb99
+      internalID: 1324081628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_140
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 178
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9222f128014b3e439cd23b35fb9b91a
+      internalID: 1903285485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_141
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 175
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f131bfe40dbce4448aff78c4782292d
+      internalID: 1337841724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_142
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 166
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290dc5178d43d8240b110a779641b9e9
+      internalID: -2077580517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_143
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 169
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7840c0dfba8a3f945b3a9bdc526aa9fb
+      internalID: 253358692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_144
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 149
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a1b6a9010c2244784d02ea2bed2429
+      internalID: -73820308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_145
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 151
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d104211a747bd604eaab972af037d6e8
+      internalID: 302025831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_146
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 150
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb3cc605e38fad4eb75a5af7151c456
+      internalID: -1091853580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_147
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 147
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f363c2f24a2607341a7f09ccb006394a
+      internalID: 975011465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_148
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 152
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6dc8c8c56254c4aad774c0cb101730
+      internalID: -887520157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_149
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 151
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159143a65615eeb46aeb13cdc96c45f7
+      internalID: 1815303098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_150
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 152
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804ffdc5245780f49a632474036e3b27
+      internalID: -904684097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_151
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 152
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3aa56d0a534fa4fabb7bb2d9b84e3a
+      internalID: -1509556951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_152
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 150
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bcfeeb8c842f748a1089a8ced002e0
+      internalID: 914215544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_153
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 152
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb69b9b9946b49348b84a86564a7000f
+      internalID: 350982280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_154
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 151
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768c0fa74c6452c4bb3b0f57e669630c
+      internalID: 232652742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_155
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 151
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ce85a67e0a5524ba6e8b48f17e7cde
+      internalID: 1661498823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_156
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 150
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8c9a6605c3441428bc23e2686f1564
+      internalID: -1385244455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_157
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 151
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0349d90728dd1c48819d99c73770715
+      internalID: 2006508002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_158
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 149
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d21a7f8923ec3040ab62196abdae21d
+      internalID: -218849906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_159
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 151
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b97171685ff6e440bf81b3432ae46ad
+      internalID: 1638097649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_160
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 150
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ee06a2efd3a5a4bbf645da4bfdf518
+      internalID: 397939295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_161
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 151
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45a156c65e5bf447a3bd6d46785deb3
+      internalID: -325707983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_162
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 122
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86792a4341e5c114ba706bca641550dd
+      internalID: 19016861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_163
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 122
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780eeddb2496d7c4590c58dc863e41bc
+      internalID: 181182840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_164
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 120
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74311d2e09e10c40a47c35f5caee8cc
+      internalID: 289533305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_165
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 121
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d39563e2e1b6a7429d0abdb08112f66
+      internalID: -1807561363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_166
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 120
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e60524d34915d54cb567bc3e66780e8
+      internalID: 2143533945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_167
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 122
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af657ffcfdbb7f24dbf330dbbfdc408a
+      internalID: -1914140961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_168
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 44
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b0da971c950564096a7514d46725ce
+      internalID: 1427609154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_169
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 122
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdbe00e061dea24d9c0c73b79da6fe3
+      internalID: -472622426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_170
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 116
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cafb79efce3ea45b67e7ce4abdd392
+      internalID: 1070789272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_171
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 116
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fee8ef4c75a7e45ba46e142d706bad
+      internalID: 180898862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_172
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 117
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbad3977d6edc8748bbb15c62b717cb3
+      internalID: -2095635357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_173
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 118
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07491014582302c48a0bd44732238dc4
+      internalID: -131592090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_174
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 121
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cc975d0de9a5d48bdcc746b3809457
+      internalID: -145243026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_175
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 119
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd544a5fe1450c5408e96b61dfda1243
+      internalID: 182818132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_176
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 118
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2db34db286081341ac12bceb614ae8f
+      internalID: 426893437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_177
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 116
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2c3b7362e7f7048a22e5a5436d61f7
+      internalID: 433883417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_178
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 117
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5075a883f0659ed4db4f2facbe4d3c1d
+      internalID: -396025564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_179
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 116
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70c6d99ff7c2fb44b18d8618f6b26e5
+      internalID: -1458932118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_180
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 115
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6715e8d88f9bf44852515628071e4b
+      internalID: -56299912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_181
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e21895eb433584f9824c293bb6235d
+      internalID: 1509973431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_182
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 95
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fa16c5b182b8845a0b4781b322cc91
+      internalID: 79002419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_183
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 95
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c52835d610fb3448d02195df00bc3a
+      internalID: -70546894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_184
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 110
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3e637a6cdeee84f8a1d0781031acf9
+      internalID: -1189807841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_185
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 104
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb374eea8d3a534f8efe06f001a7df1
+      internalID: 2026561976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_186
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 105
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bb23f8b03d3c14d9613896f07ee277
+      internalID: 436002968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_187
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 103
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f15bd12805c9e488e1eb17ef92502f
+      internalID: -876014379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_188
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 64
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d412a645689efde49afa2bf3ee09968f
+      internalID: -504208532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_189
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 91
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07ef3901da74274588d3c51db022d57
+      internalID: 740335425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_190
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 87
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc55aac411207a24c9e32e03b8624b80
+      internalID: -720859239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_191
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 85
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f340bcf066d30e24f97a8d1ef1473170
+      internalID: -1411398551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_192
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 84
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69755804aec32fa47ac9fd8fcce2b729
+      internalID: -19888341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_193
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 85
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a2520ffc6201f4cb06f1cf1359055c
+      internalID: -624681021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75efbb4a1e3ceb4bb1d5003d595b62d
+      internalID: 621444559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_195
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 63
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e50392f140655a408d2cc6bd889dfac
+      internalID: 447323527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_196
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 40
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35c6decac9ab7d4cb2ec9ccdf81fd4d
+      internalID: 590027732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_197
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 38
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2df909e6a749764eb43971cbc05ed74
+      internalID: 477667832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_198
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 44
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc851bd2f7a7a184a976a0322b9f21e5
+      internalID: -1342448629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_199
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 44
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a607ee8abc36cb47b945c3788d25914
+      internalID: 1591084544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_200
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 43
+        width: 98
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710c995fcf46a55479a5769cd3010c73
+      internalID: -926109839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_201
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 40
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79060caa75138ff44ae9fcbed6aedcc2
+      internalID: -102154587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_202
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 7
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df33876939c2d2c41beb6ff38191bc78
+      internalID: 1733433295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_203
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 96
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c560d30fff35e1f45908675fa61c0da9
+      internalID: 2051693264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5086643db0e00d4386464c6be7fcfd9
+      internalID: 1768989101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_205
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 16
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fef88ce690397840aae4d37a591c3b4
+      internalID: 307169553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_206
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 13
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea70d6054f763f14799ef3bda5cb67ff
+      internalID: -270567533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_207
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 14
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700db3d32b70b5042b1dfb6048ee7af8
+      internalID: -1518792897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_208
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 6
+        width: 81
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baed9125fdf792144880c146efdeb003
+      internalID: 1870331610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-removebg-preview_209
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 7
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b5e663a338b9740a3c4c917a91c384
+      internalID: 822657168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      goku-removebg-preview_116: 1175708687
+      goku-removebg-preview_22: -950526187
+      goku-removebg-preview_66: 1736255332
+      goku-removebg-preview_182: 79002419
+      goku-removebg-preview_45: 1040281582
+      goku-removebg-preview_151: -1509556951
+      goku-removebg-preview_122: 1621987535
+      goku-removebg-preview_144: -73820308
+      goku-removebg-preview_199: 1591084544
+      goku-removebg-preview_201: -102154587
+      goku-removebg-preview_51: 1810526066
+      goku-removebg-preview_130: 1696955943
+      goku-removebg-preview_88: -2020371620
+      goku-removebg-preview_105: -1200422424
+      goku-removebg-preview_189: 740335425
+      goku-removebg-preview_17: 1816556057
+      goku-removebg-preview_93: 54382512
+      goku-removebg-preview_77: 1511034675
+      goku-removebg-preview_160: 397939295
+      goku-removebg-preview_16: 614864873
+      goku-removebg-preview_146: -1091853580
+      goku-removebg-preview_174: -145243026
+      goku-removebg-preview_14: -616958429
+      goku-removebg-preview_172: -2095635357
+      goku-removebg-preview_33: -1682834468
+      goku-removebg-preview_39: -336031700
+      goku-removebg-preview_141: 1337841724
+      goku-removebg-preview_75: -1947166232
+      goku-removebg-preview_185: 2026561976
+      goku-removebg-preview_192: -19888341
+      goku-removebg-preview_200: -926109839
+      goku-removebg-preview_108: -494271632
+      goku-removebg-preview_142: -2077580517
+      goku-removebg-preview_84: 1246817803
+      goku-removebg-preview_124: -274193198
+      goku-removebg-preview_204: 1768989101
+      goku-removebg-preview_18: 1562990626
+      goku-removebg-preview_184: -1189807841
+      goku-removebg-preview_68: 801982097
+      goku-removebg-preview_159: 1638097649
+      goku-removebg-preview_188: -504208532
+      goku-removebg-preview_208: 1870331610
+      goku-removebg-preview_59: -957214246
+      goku-removebg-preview_7: -1884557918
+      goku-removebg-preview_56: 582751164
+      goku-removebg-preview_36: -1855411867
+      goku-removebg-preview_34: -983367387
+      goku-removebg-preview_140: 1903285485
+      goku-removebg-preview_128: -1150773391
+      goku-removebg-preview_125: -1995736741
+      goku-removebg-preview_54: -1695411588
+      goku-removebg-preview_74: 989468666
+      goku-removebg-preview_168: 1427609154
+      goku-removebg-preview_80: -393415115
+      goku-removebg-preview_163: 181182840
+      goku-removebg-preview_177: 433883417
+      goku-removebg-preview_205: 307169553
+      goku-removebg-preview_209: 822657168
+      goku-removebg-preview_131: 1503496905
+      goku-removebg-preview_23: 224389174
+      goku-removebg-preview_55: 2032938717
+      goku-removebg-preview_157: 2006508002
+      goku-removebg-preview_101: 742205276
+      goku-removebg-preview_115: -1176041994
+      goku-removebg-preview_164: 289533305
+      goku-removebg-preview_87: -1696873445
+      goku-removebg-preview_183: -70546894
+      goku-removebg-preview_5: -1500706015
+      goku-removebg-preview_126: 1925908207
+      goku-removebg-preview_109: 1781306410
+      goku-removebg-preview_178: -396025564
+      goku-removebg-preview_57: -2024508668
+      goku-removebg-preview_61: -1525319644
+      goku-removebg-preview_52: 459741905
+      goku-removebg-preview_30: -950856642
+      goku-removebg-preview_97: 337871947
+      goku-removebg-preview_111: 1041076332
+      goku-removebg-preview_83: 1265619293
+      goku-removebg-preview_120: -1670535754
+      goku-removebg-preview_12: -1060763302
+      goku-removebg-preview_152: 914215544
+      goku-removebg-preview_24: 902097979
+      goku-removebg-preview_89: -265002592
+      goku-removebg-preview_62: -1361297746
+      goku-removebg-preview_121: 1505363730
+      goku-removebg-preview_113: 474065666
+      goku-removebg-preview_179: -1458932118
+      goku-removebg-preview_203: 2051693264
+      goku-removebg-preview_15: 343780734
+      goku-removebg-preview_72: 2046157501
+      goku-removebg-preview_150: -904684097
+      goku-removebg-preview_206: -270567533
+      goku-removebg-preview_53: 857501073
+      goku-removebg-preview_96: 2018326943
+      goku-removebg-preview_133: 2136854930
+      goku-removebg-preview_176: 426893437
+      goku-removebg-preview_173: -131592090
+      goku-removebg-preview_31: -666027753
+      goku-removebg-preview_99: 816645563
+      goku-removebg-preview_104: 138359167
+      goku-removebg-preview_137: 657716077
+      goku-removebg-preview_81: 1135025711
+      goku-removebg-preview_10: -1227039167
+      goku-removebg-preview_67: -1716998625
+      goku-removebg-preview_167: -1914140961
+      goku-removebg-preview_65: 143153732
+      goku-removebg-preview_193: -624681021
+      goku-removebg-preview_92: 589005411
+      goku-removebg-preview_198: -1342448629
+      goku-removebg-preview_85: 359673699
+      goku-removebg-preview_2: 507601936
+      goku-removebg-preview_138: -2086356133
+      goku-removebg-preview_202: 1733433295
+      goku-removebg-preview_170: 1070789272
+      goku-removebg-preview_58: -1075257160
+      goku-removebg-preview_207: -1518792897
+      goku-removebg-preview_0: -1033586264
+      goku-removebg-preview_143: 253358692
+      goku-removebg-preview_162: 19016861
+      goku-removebg-preview_42: 108155034
+      goku-removebg-preview_86: 802069931
+      goku-removebg-preview_165: -1807561363
+      goku-removebg-preview_161: -325707983
+      goku-removebg-preview_26: -1801800579
+      goku-removebg-preview_82: 2087947679
+      goku-removebg-preview_195: 447323527
+      goku-removebg-preview_28: 584963176
+      goku-removebg-preview_40: 1263319613
+      goku-removebg-preview_9: -115022031
+      goku-removebg-preview_11: -1575686110
+      goku-removebg-preview_194: 621444559
+      goku-removebg-preview_63: 1713844060
+      goku-removebg-preview_123: 926252571
+      goku-removebg-preview_129: 1494843656
+      goku-removebg-preview_41: 302767509
+      goku-removebg-preview_196: 590027732
+      goku-removebg-preview_158: -218849906
+      goku-removebg-preview_134: -468278694
+      goku-removebg-preview_154: 232652742
+      goku-removebg-preview_6: 2140930640
+      goku-removebg-preview_49: 1502847171
+      goku-removebg-preview_60: -66188004
+      goku-removebg-preview_102: -826762238
+      goku-removebg-preview_44: -3944230
+      goku-removebg-preview_98: 961806304
+      goku-removebg-preview_27: -1073051984
+      goku-removebg-preview_119: 466232206
+      goku-removebg-preview_180: -56299912
+      goku-removebg-preview_3: 553491182
+      goku-removebg-preview_46: -528726019
+      goku-removebg-preview_20: -596360569
+      goku-removebg-preview_76: 687581578
+      goku-removebg-preview_191: -1411398551
+      goku-removebg-preview_118: 1028671598
+      goku-removebg-preview_117: 1037712532
+      goku-removebg-preview_8: 524144052
+      goku-removebg-preview_181: 1509973431
+      goku-removebg-preview_4: 786458873
+      goku-removebg-preview_35: 1600673518
+      goku-removebg-preview_153: 350982280
+      goku-removebg-preview_69: 1054856168
+      goku-removebg-preview_21: 1677430220
+      goku-removebg-preview_70: 925169032
+      goku-removebg-preview_106: -581562750
+      goku-removebg-preview_110: 1489501976
+      goku-removebg-preview_29: -1652073030
+      goku-removebg-preview_1: 444378761
+      goku-removebg-preview_73: 1536240683
+      goku-removebg-preview_95: -1596191407
+      goku-removebg-preview_169: -472622426
+      goku-removebg-preview_149: 1815303098
+      goku-removebg-preview_48: -1272485626
+      goku-removebg-preview_145: 302025831
+      goku-removebg-preview_107: -1475516186
+      goku-removebg-preview_114: -1441141490
+      goku-removebg-preview_71: 307096290
+      goku-removebg-preview_171: 180898862
+      goku-removebg-preview_91: 25293680
+      goku-removebg-preview_100: -1740114662
+      goku-removebg-preview_103: -2090393454
+      goku-removebg-preview_47: 2096459665
+      goku-removebg-preview_79: -234722648
+      goku-removebg-preview_139: 1324081628
+      goku-removebg-preview_25: -607224982
+      goku-removebg-preview_136: -1862356794
+      goku-removebg-preview_187: -876014379
+      goku-removebg-preview_148: -887520157
+      goku-removebg-preview_190: -720859239
+      goku-removebg-preview_13: -2062838287
+      goku-removebg-preview_38: -496339420
+      goku-removebg-preview_155: 1661498823
+      goku-removebg-preview_94: -1791644297
+      goku-removebg-preview_90: 1662336833
+      goku-removebg-preview_156: -1385244455
+      goku-removebg-preview_127: -186160608
+      goku-removebg-preview_186: 436002968
+      goku-removebg-preview_147: 975011465
+      goku-removebg-preview_175: 182818132
+      goku-removebg-preview_197: 477667832
+      goku-removebg-preview_37: 776142060
+      goku-removebg-preview_19: -1032418501
+      goku-removebg-preview_43: 558035335
+      goku-removebg-preview_132: -1967844493
+      goku-removebg-preview_32: -1988683251
+      goku-removebg-preview_135: -1628819692
+      goku-removebg-preview_112: -334125788
+      goku-removebg-preview_64: 543624291
+      goku-removebg-preview_50: -1637998796
+      goku-removebg-preview_166: 2143533945
+      goku-removebg-preview_78: 1014935503
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

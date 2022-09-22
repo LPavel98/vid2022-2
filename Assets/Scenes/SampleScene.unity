@@ -266,7 +266,7 @@ GameObject:
   - component: {fileID: 123918389}
   - component: {fileID: 123918388}
   m_Layer: 0
-  m_Name: Escalera
+  m_Name: Hongo
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
